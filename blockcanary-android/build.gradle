@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.codemx:'
+//group='com.github.codemx:'
 
 android {
     compileSdkVersion LIBRARY_COMPILE_SDK_VERSION
